@@ -1,0 +1,5 @@
+# 统一使用 LF，避免跨平台换行噪音
+* text=auto eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.py text eol=lf

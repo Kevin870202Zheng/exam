@@ -1,0 +1,9 @@
+# 本地素材：受 HKSI 版权约束，不得入库、不得随仓库分发
+# 用 scripts/fetch-sources.sh 按需获取
+source/
+
+# 工具内部状态（含项目记忆，不对外）
+.youcoder/
+
+# macOS
+.DS_Store
